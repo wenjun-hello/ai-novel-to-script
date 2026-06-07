@@ -156,6 +156,8 @@ ls out/
 - js-yaml
 - OpenAI SDK (兼容 DeepSeek)
 - Tailwind CSS
+## demo演示视频
+-https://pan.quark.cn/s/39c43f1c9745
 
 ## 后续改进方向
 
