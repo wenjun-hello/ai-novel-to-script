@@ -10,6 +10,8 @@
 
 ## Demo 视频
 
+[https://pan.quark.cn/s/39c43f1c9745]
+
 项目根目录 `public/demo-video.mov`，展示了完整操作流程：加载示例文本 → 章节识别 → Mock 生成 → YAML 预览与下载 → AI 真实生成。
 
 ## 功能特点
@@ -156,8 +158,7 @@ ls out/
 - js-yaml
 - OpenAI SDK (兼容 DeepSeek)
 - Tailwind CSS
-## demo演示视频
--https://pan.quark.cn/s/39c43f1c9745
+
 
 ## 后续改进方向
 
